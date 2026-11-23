@@ -2,15 +2,6 @@
 
 A classic **Simon Says (Genius)** style memory game built with Arduino, featuring 4 colored LEDs, 4 buttons, and a buzzer for audiovisual feedback.
 
-## Table of Contents
-- [Overview](#-overview)
-- [Components](#-components)
-- [Wiring](#-wiring)
-- [Installation](#-installation)
-- [How to Play](#-how-to-play)
-- [Code Structure](#-code-structure)
-- [Customization](#-customization)
-
 ## Overview
 
 The game generates a random sequence of lights and sounds. Each round, the sequence grows by one step. The player must repeat the sequence by pressing the corresponding buttons. One mistake and the game is over!
